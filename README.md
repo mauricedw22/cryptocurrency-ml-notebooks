@@ -8,5 +8,5 @@
 <ul style="list-style-type:circle;">
     <li><a href="https://www.kaggle.com/mauricedw22/telcoin-xdc-linear-regression-model/">XDC and TEL linear regression model</a></li>
     <li><a href="https://www.kaggle.com/mauricedw22/xrp-xlm-linear-regression-model/">XLM and XRP linear regression model</a></li>
-    <li><a href="https://www.kaggle.com/mauricedw22/xrp-xlm-linear-regression-model/">XDC and TEL linear regression function</a></li>
+    <li><a href="https://www.kaggle.com/mauricedw22/xdctel-linear-regression-function">XDC and TEL linear regression function</a></li>
 </ul>
